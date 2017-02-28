@@ -9,3 +9,6 @@ http://stackoverflow.com/questions/20620146/show-date-ending-on-the-group-and-ch
 
 Section suppression formulas for multi-select parameters in Crystal Reports 11.5
 http://superuser.com/questions/1174022/section-suppression-formulas-for-multi-select-parameters-in-crystal-reports-11-5
+
+Passing parameter to crystal reports using sql
+http://stackoverflow.com/questions/42488158/passing-parameter-to-crystal-reports-using-sql
